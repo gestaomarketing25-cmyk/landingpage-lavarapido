@@ -52,7 +52,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .button-outline-light:hover { background: rgba(255,255,255,.16); }
 .button-full { width: 100%; }
 
-.hero { position: relative; min-height: calc(100svh - 72px); display: flex; align-items: center; background-image: linear-gradient(90deg, rgba(2,32,75,.92) 0%, rgba(4,61,137,.72) 42%, rgba(2,26,62,.48) 100%), url('/assets/hero-car-wash.webp'); background-position: center 58%; background-size: cover; color: #fff; overflow: hidden; padding: 36px 0; }
+.hero { position: relative; min-height: calc(100svh - 72px); display: flex; align-items: center; background-image: linear-gradient(90deg, rgba(2,32,75,.92) 0%, rgba(4,61,137,.72) 42%, rgba(2,26,62,.48) 100%), url('assets/hero-car-wash.webp'); background-position: center 58%; background-size: cover; color: #fff; overflow: hidden; padding: 36px 0; }
 .hero::before { display: none; }
 .hero-glow { display: none; }
 .hero-glow-one { width: 560px; height: 560px; left: -370px; top: -300px; }
